@@ -1,0 +1,11 @@
+2023-06-27 13:52:41,587 - DEBUG - Hola mi carro me lo reobaron
+2023-06-27 13:52:41,588 - INFO - me lo han devuelto
+2023-06-27 13:55:39,936 - INFO - {Ejercicio9_Test}- {test_1}
+2023-06-27 13:55:39,936 - DEBUG - <__main__.MiObjeto object at 0x000001EFCE414950>
+2023-06-27 13:55:39,936 - INFO - me lo han devuelto
+2023-06-27 13:57:22,577 - INFO - {Ejercicio9_Test}- {test_1}
+2023-06-27 13:57:22,577 - DEBUG - MiObjeto [nombre =self.nombre]
+2023-06-27 13:57:22,577 - INFO - me lo han devuelto
+2023-06-27 13:57:46,383 - INFO - {Ejercicio9_Test}- {test_1}
+2023-06-27 13:57:46,383 - DEBUG - MiObjeto [nombre =Pepe]
+2023-06-27 13:57:46,383 - INFO - me lo han devuelto
